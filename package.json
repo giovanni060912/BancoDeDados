@@ -1,0 +1,11 @@
+{
+  "name": "bancodedados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conn.js"
+}
+{
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
